@@ -1,3 +1,2 @@
 - Hi, I’m @EmirhanVarlk
 - I’m currently studying in Karadeniz Technical University Software Engineering.
-- I will be publishing all my codes while I'm learning programming.
